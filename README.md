@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##ES
+## ES
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web 🌱
 - Portfolio:
 - Proyectos activos:
    - https://github.com/AndresStan/CasinoOnline
 
 
-##EN
+## EN
 - 🌱 I’m currently learning Web Development 🌱
 - Portfolio:
 - Active projects:
