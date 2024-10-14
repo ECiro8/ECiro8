@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 ## ES
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web 🌱
-- Portfolio:
-- Proyectos activos:
+- 📜 Portfolio: 
+- 🥧 Proyectos activos:
    - https://github.com/AndresStan/CasinoOnline
 
 
 ## EN
 - 🌱 I’m currently learning Web Development 🌱
-- Portfolio:
-- Active projects:
+- 📜 Portfolio:
+- 🥧 Active projects:
   - https://github.com/AndresStan/CasinoOnline
  
 ## 👆👆👆👆
