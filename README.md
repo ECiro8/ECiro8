@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web 🌱
 - 📜 Portfolio: 
 - 📋 Proyectos terminados:
- - 📟 Calculadora Básica https://github.com/ECiro8/BasicCalc
+  - 📟 Calculadora Básica https://github.com/ECiro8/BasicCalc
 
 ## EN
 - 🌱 I’m currently learning Web Development 🌱
