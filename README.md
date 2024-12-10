@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 ## ES
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web 🌱
 - 📜 Portfolio: 
-- 🥧 Proyectos activos:
-   - https://github.com/AndresStan/CasinoOnline
-
+- 📋 Proyectos terminados:
+ - 📟 Calculadora Básica https://github.com/ECiro8/BasicCalc
 
 ## EN
 - 🌱 I’m currently learning Web Development 🌱
 - 📜 Portfolio:
-- 🥧 Active projects:
-  - https://github.com/AndresStan/CasinoOnline
- 
+- 📋 Finished projects: 
+   - 📟 Basic calculator https://github.com/ECiro8/BasicCalc
+  
 ## 👆👆👆👆
 
